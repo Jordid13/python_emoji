@@ -3,6 +3,10 @@
 Goal: Practice creating a clean project, setting up a virtual environment, installing/pinning
 packages, writing a small Python script (not a notebook), timing code, and adding a smoke test.
 
+[logo]: ./assets/pic.png "Logo Title Text 2"
+![alt text][logo]
+
+
 ## Setup (env creation, install from requirements)
 
 1. Clone repository in your local system
